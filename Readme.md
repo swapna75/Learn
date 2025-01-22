@@ -20,3 +20,34 @@ To visualize this, let’s assume that you have a directory containing three fil
 $ git add README test.rb LICENSE
 $ git commit -m 'Initial commit'
 ```
+I just love **bold text**.
+
+I just love __bold text__.
+
+Love**is**bold
+
+Love__is__bold
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+
+### List
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+
+
+
+
+
+
+
+
+
+
+
